@@ -1,4 +1,2 @@
-from string import ascii_lowercase
-
-
+#!/usr/bin/python3
 print(ascii_lowercase)
