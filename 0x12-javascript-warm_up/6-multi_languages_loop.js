@@ -1,4 +1,4 @@
 #!/usr/bin/node
-for (const line of ["C is fun", "Python is cool", "JavaScript is amazing"]) {
-  console.log(line);
-}
+console.log('C is fun');
+console.log('Python is cool');
+console.log('JavaScript is amazing');
